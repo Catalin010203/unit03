@@ -1,0 +1,9 @@
+From: catalin@example.com
+To: coleg@example.com
+Subject: SMTP Test - Unit 03
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Salut! Acesta este primul meu email trimis prin serverul SMTP implementat in =
+Python.
